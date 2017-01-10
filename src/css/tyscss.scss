@@ -1,0 +1,11 @@
+$base:#0FF;
+.baseFont{font-family:'Microsoft YaHei'}
+.baseBg{width:250px; height:250px; float:left; background-size:100% 100%; background-repeat:no-repeat;}
+
+body{
+  background:$base;
+
+  .box1{background-image: url("../images/defaultDisk.jpg"); @extend .baseBg; transition:.2s all;}
+  .box2{background-image: url("../images/playRod.png"); @extend .baseBg;}
+}
+

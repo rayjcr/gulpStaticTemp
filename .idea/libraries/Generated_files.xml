@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dest/js/lib/jquery-compiled.js" />
+        <item url="file://$PROJECT_DIR$/gulpfile-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dest/js/jes6-compiled-compiled.js" />
+        <item url="file://$PROJECT_DIR$/src/js/lib/jquery-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dest/js/lib/jquery-compiled-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/webpack.config-compiled.js" />
+      <root url="file://$PROJECT_DIR$/webpack.config-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/js/dest/jes6-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dest/js/lib/jquery-compiled.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/js/jes6-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dest/js/jes6-compiled-compiled.js" />
+      <root url="file://$PROJECT_DIR$/src/js/lib/jquery-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dest/js/lib/jquery-compiled-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
